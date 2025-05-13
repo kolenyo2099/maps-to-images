@@ -20,7 +20,7 @@ This script allows you to:
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/kolenyo2099/maps-to-images)
    cd <repository-directory>
    ```
 
