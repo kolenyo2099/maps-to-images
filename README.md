@@ -80,4 +80,4 @@ MAX_PLACES_TO_PROCESS = 3         # Maximum number of places to scrape
 
 ## License
 
-[Add your license information here] 
+All property is theft.
