@@ -80,4 +80,4 @@ MAX_PLACES_TO_PROCESS = 3         # Maximum number of places to scrape
 
 ## License
 
-All property is theft.
+Chill vibes 2.1
