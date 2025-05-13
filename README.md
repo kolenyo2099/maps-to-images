@@ -1,4 +1,4 @@
-# Google Maps Image Scraper
+# Maps Image Scraper
 
 A Python script that extracts and downloads images from Google Maps for given places/locations.
 
