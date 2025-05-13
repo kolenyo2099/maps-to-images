@@ -20,8 +20,8 @@ This script allows you to:
 
 1. Clone this repository:
    ```
-   git clone [<repository-url>](https://github.com/kolenyo2099/maps-to-images)
-   cd <repository-directory>
+   git clone https://github.com/kolenyo2099/maps-to-images
+   cd maps-to-images
    ```
 
 2. Install required packages:
